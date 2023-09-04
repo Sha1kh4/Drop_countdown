@@ -1,0 +1,24 @@
+{
+    "manifest_version": 3,
+    "name": "CSGO drop cap Countdown",
+    "description": "An extension to let you know when the drop cap resets in CSGO",
+    "version": "1.0",
+
+    "action": {
+        "default_title": "Find when the drop cap resets",
+        "default_icon": {
+            "16": "images/icon.png",
+            "32": "images/icon.png",
+            "48": "images/icon.png",
+            "128": "images/icon.png"
+        },
+        "default_popup": "popup.html"
+    },
+
+    "icons": {
+        "16": "images/icon.png",
+        "32": "images/icon.png",
+        "48": "images/icon.png",
+        "128": "images/icon.png"
+    }
+}
