@@ -6,7 +6,7 @@ This Chrome extension provides a countdown timer for CS2 drops, allowing users t
 
 ## Features
 
-- **Dynamic Countdown:** The extension calculates and displays the time remaining until the next CS:GO drop, updating in real-time.
+- **Dynamic Countdown:** The extension calculates and displays the time remaining until the next CS2 drop, updating in real-time.
   
 - **Customizable Configuration:** Users can customize the extension's behavior through the provided configuration options, such as display format, leading zeros, and finish message.
 
